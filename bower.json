@@ -1,0 +1,27 @@
+{
+  "name": "Simple JavaScript unit test runner with Jasmine and Karma.",
+  "version": "0.1.0",
+  "authors": [
+    "Afsar zan <afsat_optimistic.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "test runner"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "jasmine-jquery": "~2.0.3"
+  }
+}
